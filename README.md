@@ -2,8 +2,8 @@
 
 Este proyecto puede ser usado en Linux y Windows.
 Está programado en C#.
-Tiene algunos posibles errores que en nuestro tiempo de ocio vamos 
-solucionando y añadiendo nuevas caracteristicas.
+Tiene algunos posibles errores que se irán 
+solucionando además de ir añadiendo nuevas caracteristicas.
 
 Es totalmente personalizable y facilita las tareas remotas de 
 control de un servidor NAS
