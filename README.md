@@ -1,11 +1,12 @@
 # TelegramBotNas
 
-Este source puede ser usado en linux y windows esta en codigo c#
+Este proyecto puede ser usado en Linux y Windows.
+Está programado en C#.
 Tiene algunos posibles errores que en nuestro tiempo de ocio vamos 
 solucionando y añadiendo nuevas caracteristicas.
 
 Es totalmente personalizable y facilita las tareas remotas de 
-control de nuestro NAS
+control de un servidor NAS
 
 LINUX
 --------------
@@ -29,7 +30,7 @@ compilarlo.
 
 
 
-Cualquier reporte de algun fallo nos vendrá bien para mejorarlo.
+Cualquier reporte de algun fallo vendrá bien para mejorarlo.
 
 CARACTERISTICAS
 --------------
@@ -40,5 +41,5 @@ CARACTERISTICAS
 - Detener el bot.
 
 
-Puedes sugerirnos cualquier implementación y la estudiaremos.
+Cualquier sugerencia de implementación será estudiada.
 Gracias y un saludo.
