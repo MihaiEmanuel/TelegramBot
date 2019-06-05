@@ -11,7 +11,7 @@ LINUX
 --------------
 Para compilar ejecutar los siguientes comandos.
 ```
-git clone https://github.com/trax69/TelegramBotNas.git
+git clone https://github.com/MihaiEmanuel/TelegramBot.git
 ```
 y posteriormente
 
